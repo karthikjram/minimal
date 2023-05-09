@@ -2,7 +2,7 @@
 ---
 ## Projection Computing & Machine Learning
 
-### HP Sprout - Blended Reality (Projection Computing) PC
+### HP Sprout - Blended Reality PC (2014)
 
 Sprout by HP empowers you to manipulate the physical and digital worlds in innovative ways. 
 
@@ -10,8 +10,23 @@ Built with a PC, projector, hi-res cameras, Touch Mat and 2D and 3D capture capa
 
 Ability to capture, scan and detect objects using complex computer vision & machine learning algorithms
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/karthikjram/fraud_detection)
-
 <center><img src="assets/img/hpsprout.jpg" alt="HP Sprout Projection Blended Reality PC" width="500" height="500"/></center>
 
+[News - Fast Company: HP’s Sprout Is A Bold Attempt to Reimagine The Desktop PC](https://www.fastcompany.com/3037699/hps-sprout-is-a-bold-attempt-to-reimagine-the-desktop-pc)
+
 ---
+## Mobile Computing
+
+### Amazon Kindle app for HP Touchpad tablet (Palm WebOS) (2011)
+
+Spearheaded, Designed & Developed the Amazon Kindle app for HP Touchpad tablet (Palm WebOS) as a joint
+
+collaboration with HP & Amazon. The Amazon's free "Buy Once, Read Everywhere" Kindle app that lets users read and sync 
+
+over 810,000 of the most popular books was available on the new HP TouchPad (2011).
+
+Whispersync technology syncs reader's place across devices, so they can pick up where left off.
+
+[News - Slashgear: Amazon Kindle for webOS TouchPad confirmed](https://www.slashgear.com/amazon-kindle-for-webos-touchpad-confirmed-0913214)
+
+<center><img src="assets/img/kindlewebos.jpg" alt="Amazon Kindle app for HP Touchpad tablet (Palm WebOS)" width="500" height="500"/></center>
