@@ -27,6 +27,6 @@ over 810,000 of the most popular books was available on the new HP TouchPad (201
 
 Whispersync technology syncs reader's place across devices, so they can pick up where left off.
 
-[News - Slashgear: Amazon Kindle for webOS TouchPad confirmed](https://www.slashgear.com/amazon-kindle-for-webos-touchpad-confirmed-0913214)
+[News - ZDNet: HP TouchPad: Kindle app review](https://www.zdnet.com/article/hp-touchpad-kindle-app-review/)
 
-<center><img src="assets/img/kindlewebos.jpg" alt="Amazon Kindle app for HP Touchpad tablet (Palm WebOS)" width="500" height="500"/></center>
+<center><img src="assets/img/kindlewebos.png" alt="Amazon Kindle app for HP Touchpad tablet (Palm WebOS)" width="400" height="500"/></center>
